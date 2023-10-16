@@ -1,0 +1,17 @@
+.navbar-brand{
+    font-family: "Ubuntu",sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+}
+
+
+/* Plus button for adding new users Bottom Right */
+
+.box{
+
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    margin-bottom: 30px;
+}
